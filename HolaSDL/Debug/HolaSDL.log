@@ -1,0 +1,48 @@
+﻿  ArkanoidObject.cpp
+c:\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+c:\hlocal\gonzalotpvjejej\holasdl\arkanoidobject.cpp(9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\hlocal\gonzalotpvjejej\holasdl\arkanoidobject.cpp(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\hlocal\gonzalotpvjejej\holasdl\arkanoidobject.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\hlocal\gonzalotpvjejej\holasdl\arkanoidobject.cpp(12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ball.cpp
+c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\hlocal\gonzalotpvjejej\holasdl\ball.cpp(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Block.cpp
+c:\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+c:\hlocal\gonzalotpvjejej\holasdl\block.cpp(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BlocksMap.cpp
+c:\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\hlocal\gonzalotpvjejej\holasdl\blocksmap.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\hlocal\gonzalotpvjejej\holasdl\blocksmap.cpp(140): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\hlocal\gonzalotpvjejej\holasdl\blocksmap.cpp(144): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\hlocal\gonzalotpvjejej\holasdl\blocksmap.cpp(145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  GameObject.cpp
+c:\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+  main.cpp
+c:\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  MovingObject.cpp
+c:\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+  Paddle.cpp
+c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\hlocal\gonzalotpvjejej\holasdl\game.h(61): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\hlocal\gonzalotpvjejej\holasdl\paddle.cpp(10): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Wall.cpp
+c:\windows kits\10\include\10.0.16299.0\ucrt\crtdbg.h(302): warning C4005: '_malloca': macro redefinition
+  c:\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(121): note: see previous definition of '_malloca'
+c:\hlocal\gonzalotpvjejej\holasdl\wall.cpp(6): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  HolaSDL.vcxproj -> C:\hlocal\GonzaloTPVjejej\bin\HolaSDLDebug.exe
